@@ -1,4 +1,4 @@
-# 50 Projects in 50 Days - HTML/CSS and JavaScript
+# 50 projetos em 50 dias - HTML/CSS e JavaScript
 
 This is the main repository for all of the projects in the course.
 
